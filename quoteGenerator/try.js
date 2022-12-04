@@ -1,0 +1,1 @@
+"https://newsapi.org/v2/everything?q=tesla&from=2022-10-15&sortBy=publishedAt&apiKey=c8be0efd96fc452883e38132fd399946"
